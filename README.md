@@ -1,11 +1,11 @@
 # RIFI landing
 
-Pagina estatica separada para RIFI, inspirada en la referencia mas simple de reproducir completa: Ballena.
+Pagina estatica separada para RIFI, con direccion editorial gastronomica y motion inspirado en landings de producto como Buck's Sauce.
 
 ## Stack usado
 
 - HTML, CSS y JavaScript plano.
-- GSAP + ScrollTrigger para reveals y parallax.
+- GSAP + ScrollTrigger para loader, reveals, parallax y transiciones de menu.
 - Lenis para scroll suave.
 - Google Fonts: Marcellus e Instrument Sans.
 - Assets generados para hero y menu en `assets/`.
